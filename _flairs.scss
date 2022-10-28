@@ -86,6 +86,7 @@
 .author[href$="/juliaisagirl"]:after{color:#333333;content:" SOS Brigade Director"}
 .author[href$="/kaverik"]:after{content:"КOMЯДDE ☭ КДVEЯIК"}
 .author[href$="/kaverik"]{@extend %font-size-zero;color:#F00}
+.author[href$="/Kenalskii"]:after{color:#6E8BCE;content:" #1 Sally Fan"}
 .author[href$="/KiwiBennydudez"]:after{color: #A285E1; content:" RED HAWK";color:#FA0808}
 .author[href$="/KiwiBennydudez"]:hover {@extend %font-size-zero}
 .author[href$="/KiwiBennydudez"]:hover:before{color: #0A5EF0; content:"Gomu Gomu no...";}
@@ -108,6 +109,8 @@
 .author[href$="/MissyPie"]:after{color:#ffb6c1;content:" *:・ﾟ✧*:・ﾟ✧"}
 .author[href$="/MissyPie"]:before{color:#ffb6c1;content:"(ﾉ·ヮ·)ﾉ*:・ﾟ✧ "}
 .author[href$="/MissyPie"]{color:#ff69b4;font-weight:bold;animation:color-change 9s}
+.author[href$="/MyrnaMountWeazel"]:after{color:#AFC6A3;content:"MyrnaMountFuji"}
+.author[href$="/MyrnaMountWeazel"]{@extend %font-size-zero}
 .author[href$="/mpp00"]:after{color:#622e67;content:" of the Rebellion"}
 .author[href$="/myanimelistllc"]:after{color:#009;content:" Staff of MAL"}
 .author[href$="/N7CombatWombat"]:before{color:#cd312f;content:"I'm "}
@@ -181,6 +184,8 @@
 .author[href$="/urban287"]:not(.moderator){color:#ba55d3;font-size:inherit}
 .author[href$="/urban287"].moderator:after{content:"くそ提督 URBAN ありあり～"}
 .author[href$="/urban287"].moderator{@extend %font-size-zero}
+.author[href$="/Vaxivop"]:after{color:#354366;content:"Cowboy Vaxibop"}
+.author[href$="/Vaxivop"]{@extend %font-size-zero}
 .author[href$="/VincentBlack96"]{@extend %font-size-zero}
 .author[href$="/VincentBlack96"]:before{color: #3698e1; content: "Vincent"}
 .author[href$="/VincentBlack96"]:after{color: #000; content: "Black96"}
